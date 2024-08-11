@@ -1,3 +1,6 @@
+body{
+    background-color: whitesmoke;
+}
 .tagline{
     font-family: "Caveat", cursive;
     font-size: large;
@@ -8,4 +11,20 @@ h1{
     color: #800040;
     font-size: 40px;
     font-family: sans-serif;
+}
+.sweet-shop{
+    width: 350px;
+    height: 250px;
+    margin-top: 25px;
+    margin-left: 140px;
+    border: solid black;
+}
+.sweets{
+    display: flex;
+}
+.shop-description{
+    margin-top: 90px;
+    margin-left: 30px;
+    margin-right: 40px;
+    color:darksalmon;
 }
