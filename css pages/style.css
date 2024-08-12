@@ -4,3 +4,16 @@
 .font-cursive{
     font-family: cursive;
 }
+h1{
+    color: #9a3919;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+.tagline{
+    font-family: "Caveat", cursive;
+    font-size: large;
+    color:#db5224;
+}
+.font-28{
+    font-size: 28px;
+}
