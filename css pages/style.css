@@ -17,3 +17,21 @@ h1{
 .font-28{
     font-size: 28px;
 }
+footer{
+    margin-top: 40px;
+}
+h2{
+    color:#9a3919;
+}
+.about{
+    margin: 25px 20px;
+}
+.about-us{
+    margin-left: 25px;
+}
+.contact{
+    margin: 25px 20px;
+}
+.contact a{
+    text-decoration: none;
+}
